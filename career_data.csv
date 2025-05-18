@@ -1,0 +1,13 @@
+ID,Skills,Interests,Math_Score,English_Score,Logical_Score,Creativity,Communication,Programming,Work_Style,Recommended_Career
+1,Python SQL,Tech,85,70,90,60,70,90,Team,Software Engineer
+2,Drawing Design,Art,55,85,60,95,80,30,Alone,Graphic Designer
+3,Excel Stats,Business,90,65,88,50,60,50,Team,Data Analyst
+4,Writing Reading,Literature,60,90,65,85,90,30,Alone,Content Writer
+5,Java C++,Tech,80,68,85,50,60,88,Team,Software Engineer
+6,Photoshop Illustrator,Art,50,88,55,90,85,20,Alone,Graphic Designer
+7,PowerBI Excel,Business,92,60,87,45,55,60,Team,Data Analyst
+8,Creative Writing,Literature,58,92,70,88,95,25,Alone,Content Writer
+9,Coding Debugging,Tech,89,75,92,55,70,91,Team,Software Engineer
+10,Sketching Painting,Art,52,82,58,92,78,35,Alone,Graphic Designer
+11,Accounting Excel,Business,93,62,90,40,60,55,Team,Data Analyst
+12,Story Writing,Literature,62,89,66,84,92,28,Alone,Content Writer
